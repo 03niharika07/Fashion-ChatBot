@@ -12,7 +12,7 @@ sales = pd.read_csv("sales_summary.csv")
 # Page settings
 # -----------------------------
 st.set_page_config(page_title="Fashion Store Chatbot", layout="wide")
-st.title("Fashion Store AI Chatbot")
+st.title("Fashion Store Chatbot")
 st.write("Ask me about products, returns, shipping, payment, store location, or trends.")
 
 # -----------------------------
